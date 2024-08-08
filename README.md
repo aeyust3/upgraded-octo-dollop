@@ -1,2 +1,3 @@
 # upgraded-octo-dollop
-this is just a demo repo from Mathfest 2024
+## subheading
+This is just a demo repo from Mathfest 2024.
